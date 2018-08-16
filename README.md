@@ -115,3 +115,7 @@ Accessing elements in arrays and updating variables should both be speedy operat
 Allocating memory through object construction should be very fast. In a langauge like C++, it is sometimes possible to avoid dynamic memory allocation altogether in favor of stack allocation. On the other hand, a langauge like Java forces you to create objects using the `new` operator.
 
 #copied https://github.com/unixpickle/Benchmarks
+ 
+#reference https://jaxbot.me/articles/benchmarks_nodejs_vs_go_vs_php_3_14_2013
+
+
